@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @kmrutkarsh<br>
 
-🚀 M.Tech student at NIT Kurukshetra. Full-time techie, part-time funny guy (at least I try).<br><br>👀 Interested in Distributed Systems, ML, and making machines smarter (still working on making myself smarter).<br><br>🌱 Currently learning how to teach machines to think—turns out, they're not great at small talk.<br><br>💞️ Looking to collaborate on cool projects—just don’t expect me to fix your Wi-Fi, I’m still trying to fix my own life.<br><br>📫 Reach me at kmrutkarsh[at]gmail.com or LinkedIn.<br><br>⚡ Fun fact: ChatGPT and I are in a committed relationship. 😅
+🚀 M.Tech student at NIT Kurukshetra. Full-time techie, part-time funny guy (at least I try).<br><br>👀 Interested in Distributed Systems, ML, and making machines smarter (still working on making myself smarter).<br><br>🌱 Currently learning how to teach machines to think—turns out, they're not great at small talk.<br><br>💞️ Looking to collaborate on cool projects—just don’t expect me to fix your Wi-Fi, I’m still trying to fix my own life.<br><br>📫 Reach me at kmrutkarsh@gmail.com or LinkedIn.<br><br>⚡ Fun fact: ChatGPT and I are in a committed relationship. 😅
 
 
 ## 🌐 Socials:
